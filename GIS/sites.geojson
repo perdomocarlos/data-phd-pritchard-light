@@ -1,6 +1,5 @@
 {
 "type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "name": "Shallow" }, "geometry": { "type": "Point", "coordinates": [ 170.672849048101682, -45.639754837461886 ] } },
 { "type": "Feature", "properties": { "name": "Deep" }, "geometry": { "type": "Point", "coordinates": [ 170.673303582361228, -45.638527399727174 ] } }
