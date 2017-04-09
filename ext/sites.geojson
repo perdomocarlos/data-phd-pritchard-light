@@ -1,7 +1,31 @@
 {
-"type": "FeatureCollection",
-"features": [
-{ "type": "Feature", "properties": { "name": "Shallow" }, "geometry": { "type": "Point", "coordinates": [ 170.672849048101682, -45.639754837461886 ] } },
-{ "type": "Feature", "properties": { "name": "Deep" }, "geometry": { "type": "Point", "coordinates": [ 170.673303582361228, -45.638527399727174 ] } }
-]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shallow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.67284904810168,
+          -45.639754837461886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.67330358236123,
+          -45.638527399727174
+        ]
+      }
+    }
+  ]
 }
